@@ -21,4 +21,4 @@ Enter first number: 5 Enter second number: 3 Result: 8
 
 ## Demo Screenshot
 
-![Calculator Demo](calculator_demo.png)
+![Calculator Demo](Screenshot_2026-04-06-10-46-25-76_84d3000e3f4017145260f7618db1d683.jpg)
