@@ -17,3 +17,8 @@ A **fully working calculator** for Termux (ARM64) using **C with inline assembly
 
 ## Demo
 Enter first number: 5 Enter second number: 3 Result: 8
+
+
+## Demo Screenshot
+
+![Calculator Demo](calculator_demo.png)
